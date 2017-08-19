@@ -1,16 +1,8 @@
----
-layout: checklist_page
-title: The Side Project Marketing Checklist
-permalink: /marketing-checklist/
----
-
 The Side Project Marketing Checklist is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and [open source](https://github.com/karllhughes/side-project-marketing) so feel free to suggest your own tips anytime.
 
 ## Pre-Launch
 
 ### Market Research
-
-> _If we knew what were doing it wouldn’t be called research._ - Albert Einstein
 
 #### Competitive Landscape
 
@@ -64,7 +56,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 ### PR Preparations
 
 - [ ] Create list of tech, startup, and industry blogs.
-- [ ] Create list of local small business journals (eg: [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile)).
+- [ ] Create list of local small business journals.
 - [ ] Create list of local bloggers and journalists in your industry.
 - [ ] Create a "Media Kit" page ([check out this example](https://www.kickresume.com/mediakit/)).
 
@@ -114,8 +106,6 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Create transactional emails for when users sign up/purchase.
 
 ### Blog Setup
-
-> _Content Marketing is all the marketing that’s left._ - Seth Godin
 
 - [ ] Choose a blogging platform:
 
@@ -194,8 +184,6 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 ### Free Promotional Channels
 
-> _I don't care how much money you have, free stuff is always a good thing._ - Queen Latifah
-
 - [ ] Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup)).
 - [ ] Write and distribute a Press Release.
 - [ ] Write and distribute an eBook, exchange it for email signup.
@@ -239,8 +227,6 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [More strategies on Backlinko.com](http://backlinko.com/link-building)
 
 ### Paid Promotional Channels
-
-> _Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time._ - Johann Wolfgang von Goethe
 
 - [ ] Paid social and search advertising 
 
@@ -314,16 +300,12 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 ### Email
 
-> _Email is the Jason Bourne of online: somebody’s always trying to kill it. It can’t be done._ - Unknown
-
 - [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
 - [ ] Promote email list on social media.
 - [ ] Send 20 cold emails per week to connect with early customers and get direct feedback.
 - [ ] Send new users a personal email introducing yourself.
 
 ### Social Media
-
-> _We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people._ – Pierre Omidyar
 
 - [ ] Set up automated regular social media posts.
 
@@ -342,8 +324,6 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Give early users discounts for taking pics with your product.
 
 ### Public Relations
-
-> _The art of publicity is a black art; but it has come to stay, and every year adds to its potency._ – Thomas Paine
 
 - [ ] Ask bloggers with list articles to add your site to their content.
 - [ ] Reach out to small business journals, reporters, bloggers. Inform and ask for coverage.
